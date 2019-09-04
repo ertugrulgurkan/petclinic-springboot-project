@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ertugrul.petclinic.PetClinicProperties",
+      "name": "petclinic",
+      "type": "com.ertugrul.petclinic.PetClinicProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ertugrul.petclinic.PetClinicProperties",
+      "defaultValue": false,
+      "name": "petclinic.display-owner-with-pets",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}

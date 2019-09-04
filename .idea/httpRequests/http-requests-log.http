@@ -1,0 +1,27 @@
+GET http://localhost:8080/actuator
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-07-09T042638.200.json
+
+###
+
+PUT http://localhost:8080/rest/owner/{id}
+
+###
+
+PUT http://localhost:8080/rest/owner/{id}
+
+###
+
+GET http://localhost:8080/pcs
+
+<> 2019-07-03T014416.200.txt
+
+###
+
+GET http://localhost:8080/pcs
+
+<> 2019-07-03T011316.200.txt
+
+###
+
